@@ -1,0 +1,6 @@
+ultralytics
+opencv-python-headless
+flask
+# Note: ultralytics will auto-download two small model files on first run:
+#   yolov8n.pt       (~6MB)  - detects cars/buses/trucks
+#   yolov8n-pose.pt  (~6MB)  - detects people + body keypoints (legs, etc.)
