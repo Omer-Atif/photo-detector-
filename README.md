@@ -1,4 +1,4 @@
-# Person In/Out of Car Detector
+# Person In/Out of Car Detector 
 
 Detects whether people in a photo are **inside** or **outside** a car.
 
@@ -93,3 +93,5 @@ python cli.py path/to/photo.jpg -o annotated_output.jpg
   or loosen the thresholds in `detector.py` (`overlap_thresh`,
   `x_containment_thresh`, `feet_tolerance_frac`) to tune behavior for your
   own photos.
+
+  hope u like it ;)
